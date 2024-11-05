@@ -26,3 +26,19 @@ To set up the essential packages, follow these installation steps:
    ```bash
    npm install express
 
+## 📦 Package Installation
+
+To set up the essential packages, follow these installation steps:
+
+1. **CORS**: To enable cross-origin requests
+   ```bash
+   npm install cors
+## 📦 Package Installation
+
+To set up the essential packages, follow these installation steps:
+
+1. **Bcrypt**: For password hashing and user authentication
+   ```bash
+   npm install bcrypt
+   OR
+   npm i bcrypt
