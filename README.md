@@ -42,3 +42,21 @@ To set up the essential packages, follow these installation steps:
    npm install bcrypt
    OR
    npm i bcrypt
+
+## ⚙️ Running the Application
+
+- **Frontend**: Start the development server by running `npm run dev` from the project root directory.
+
+- **Backend**:
+  1. Navigate to the server folder:
+     ```bash
+     cd server
+     ```
+  2. Start the server:
+     ```bash
+     Node Server.js
+     ```
+
+## 🚀 Vision
+
+This application aims to transform traditional ticketing systems with an efficient, digital-first approach, delivering a responsive, engaging experience to movie-goers. Through continuous testing and updates, it provides a reliable, enjoyable booking journey.
